@@ -1,0 +1,13 @@
+# Folders to ignore
+
+_MyAssets
+node_modules/
+dist
+
+# Files
+
+package-lock.json
+
+# Eleventy
+
+_site
