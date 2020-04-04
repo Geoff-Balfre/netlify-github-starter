@@ -1,0 +1,25 @@
+{
+  "name": "netlify-github-starter",
+  "version": "1.0.0",
+  "description": "Netlify CMS Github Eleventy Starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx eleventy --serve",
+    "build": "npx eleventy",
+    "debug": "set DEBUG=Eleventy* && npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geoff-Balfre/netlify-github-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geoff-Balfre/netlify-github-starter/issues"
+  },
+  "homepage": "https://github.com/Geoff-Balfre/netlify-github-starter#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
